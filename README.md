@@ -6,7 +6,8 @@ Screenshot from the Filter Designer and Analysis Tool:
 
 The main window of programm:
 
-[image](https://github.com/pr0tos/beta-rhythm-analysis/assets/137896055/e24e3a8a-c020-4beb-a552-9218ecc6c654)
+![image](https://github.com/pr0tos/beta-rhythm-analysis/assets/137896055/e24e3a8a-c020-4beb-a552-9218ecc6c654)
+
 A band-pass filter (8th-order Butterworth filter) was developed to isolate the β-rhythm. From the PSD plot of the filtered signal, it can be seen that the signal predominantly contains frequencies in the range of 14 to 40 Hz, corresponding to the EEG β-rhythm. A feature was added to allow the selection of different methods for calculating the PSD. Autocorrelation function (ACF) plots of the signals before and after filtering were constructed. The ACF plot after filtering decays fairly quickly, which may indicate weakly pronounced periodicities of the β-rhythm.
 
 
